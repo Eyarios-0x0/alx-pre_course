@@ -1,42 +1,35 @@
-# 0x01. Git
+# ALX Pre-Course
 
-This project is part of the ALX Software Engineering program. It introduces the basics of Git and GitHub.
+This project is part of the ALX Software Engineering program. It contains the tasks and exercises that are required to be completed before the start of the program.
 
 ## Learning Objectives
 
-- What is source code management
-- What is Git
-- What is GitHub
-- What is the difference between Git and GitHub
-- How to create a repository
-- How to clone a repository
-- How to add files to a repository
-- How to commit changes
-- How to push code
-- How to pull updates
-- How to create branches
-- How to merge branches
-- How to work as collaborators on a project
-- Which files should and which files should not appear in your repo
+- How to use Git and GitHub
+- How to use Markdown
+- How to use C
 
 ## Requirements
 
 - A GitHub account
 - Git installed on your local machine
+- A text editor of your choice
+- A web browser of your choice
 
 ## Tasks
 
-0. Repo-session: Create a new directory called 0x01-git in your alx-zero_day repo and add a README.md file.
-1. Coding fury road: Add an empty file called bash/alx to your 0x01-git directory and commit it.
-2. Collaboration is the base of a company: Add an empty file called c/c_is_fun.c to your 0x01-git directory and commit it.
-3. Collaboration: be up to date: Update your local version of the 0x01-git directory with the latest changes from the remote repo.
-4. Branches, branches, branches!: Create a new branch called update_script and add an executable file called bash/alx-school to your 0x01-git directory.
-5. Never push too much: Merge the update_script branch into the main branch and delete it.
-6. Collaboration: pull requests: Create a pull request to merge a branch called update into the main branch of the alx-zero_day repo.
+0. Sign up for GitHub: Create a GitHub account and verify your email address.
+1. Install Git: Follow the instructions on how to install Git on your local machine.
+2. Create and setup your Git and GitHub account: Configure your Git username and email, and add your public SSH key to your GitHub account.
+3. Git -init: Create a new directory called alx-pre_course in your home directory and initialize a local Git repository in it.
+4. Git -add: Add a file called README.md to your alx-pre_course directory and stage it for commit.
+5. Git -commit: Commit the README.md file with a descriptive message.
+6. Git -push: Push your changes to the remote repository on GitHub.
+7. Coding fury road: Add a file called 0-custom_http_response_header to your alx-pre_course directory and write a custom HTTP response header in it.
+8. Collaboration is the base of a company: Add a file called 1-index_html to your alx-pre_course directory and write a simple HTML page in it.
+9. Collaboration: be up to date: Update your local version of the alx-pre_course directory with the latest changes from the remote repo.
+10. The framework is the structure of your life: Add a file called 2-main.py to your alx-pre_course directory and write a Python script that prints "Hello, World" in it.
+11. Approach learning with curiosity: Add a file called 3-main.c to your alx-pre_course directory and write a C program that prints "Hello, World" in it.
 
 ## Author
 
-[Name] : Eyarios Bekele Tefera
-
-
-# Happy coding :))
+Your name here
